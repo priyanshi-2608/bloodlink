@@ -195,3 +195,18 @@ body {
     font-size: 1.6rem;
   }
 }
+
+/* Responsive Navbar */
+
+.navbar-toggler {
+  border-color: #dc3545;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0.15rem rgba(220, 53, 69, 0.15);
+}
+
+.navbar-toggler-icon {
+  width: 1.2em;
+  height: 1.2em;
+}
